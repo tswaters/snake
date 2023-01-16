@@ -1,0 +1,22 @@
+
+.snake {
+  background-color: green;
+}
+.food {
+  background-color: grey;
+}
+#timer {
+  height: 20px;
+  width: 100%;
+  text-align: center;
+}
+#board {
+  position: relative;
+  margin: 20px auto;
+  border: 1px solid black;
+}
+#_debug {
+  position: absolute;
+  right: 0;
+  top: 0;
+}
